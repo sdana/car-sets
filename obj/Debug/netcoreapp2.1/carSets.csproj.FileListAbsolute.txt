@@ -1,0 +1,11 @@
+C:\Users\Seth\Workspace\exercises\carSets\bin\Debug\netcoreapp2.1\carSets.deps.json
+C:\Users\Seth\Workspace\exercises\carSets\bin\Debug\netcoreapp2.1\carSets.runtimeconfig.json
+C:\Users\Seth\Workspace\exercises\carSets\bin\Debug\netcoreapp2.1\carSets.runtimeconfig.dev.json
+C:\Users\Seth\Workspace\exercises\carSets\bin\Debug\netcoreapp2.1\carSets.dll
+C:\Users\Seth\Workspace\exercises\carSets\bin\Debug\netcoreapp2.1\carSets.pdb
+C:\Users\Seth\Workspace\exercises\carSets\obj\Debug\netcoreapp2.1\carSets.csprojAssemblyReference.cache
+C:\Users\Seth\Workspace\exercises\carSets\obj\Debug\netcoreapp2.1\carSets.csproj.CoreCompileInputs.cache
+C:\Users\Seth\Workspace\exercises\carSets\obj\Debug\netcoreapp2.1\carSets.AssemblyInfoInputs.cache
+C:\Users\Seth\Workspace\exercises\carSets\obj\Debug\netcoreapp2.1\carSets.AssemblyInfo.cs
+C:\Users\Seth\Workspace\exercises\carSets\obj\Debug\netcoreapp2.1\carSets.dll
+C:\Users\Seth\Workspace\exercises\carSets\obj\Debug\netcoreapp2.1\carSets.pdb
